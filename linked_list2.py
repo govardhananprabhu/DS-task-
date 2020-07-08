@@ -1,4 +1,4 @@
-"""Ouestion
+"""Question
 In auto stand there are N number of auto's,Only the first auto can go out first and
 while returning it should parked at the last,and the second auto... till K auto's.
 Note that it is possible any auto can go out any number of times according to K.
