@@ -21,7 +21,7 @@ Top M M M M M
                    M   M    "M"
 output:
 2
-the double qouted M is the lest side mangoes
+the double qouted M is the right side mangoes
 
 Input
 Top M M M M M M
