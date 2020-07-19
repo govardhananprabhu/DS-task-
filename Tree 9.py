@@ -19,7 +19,7 @@ Explanation
                          /\
                         8 9
 
-the * highlighted values are left diagonal values of tree
+the * highlighted values are right diagonal values of tree
 1 3 7
 
 Input
