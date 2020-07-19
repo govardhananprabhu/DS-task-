@@ -1,7 +1,7 @@
 """
 Question
-Construct the level order tree from the list and find the parent node of the givev
-value in created tree.
+Construct the level order tree from the list and find the parent node of the given
+value in created tree.If not founded print -1
 
 Input description
 First line has list of numbers
@@ -48,9 +48,9 @@ Output
 
 Input
 1 3 2 5 4 6 8 7 5 6 4 7 3 44 33 556 6 3 2 1 66 77 55 4 33333 2 1 456  6
-556
+1
 Output
-7
+-1
 
 Hint:
 Traverse through the left,right side nodes then check data is equal to k,
