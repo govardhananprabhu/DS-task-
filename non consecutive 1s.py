@@ -35,6 +35,3 @@ def countStrings(n):
 N=int(input()) 
 
 print(countStrings(N)) 
-
-# This code is contributed 
-# by Anant Agarwal. 
