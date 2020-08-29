@@ -89,4 +89,3 @@ head.splitList(head1 , head2)
 head1.printList() 
 
 head2.printList() 
-# This code is contributed by Nikhil Kumar Singh(nickzuck_007) 
