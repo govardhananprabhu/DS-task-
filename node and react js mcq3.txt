@@ -1,0 +1,164 @@
+				React js
+1.What is used in ReactJs to increase performance 
+A Both B and c
+B Original DOM
+C Virtual DOM
+D None of the above
+
+Ans C
+
+2.What is the declarative way to render a dynamic list of components based on values in an array 
+A Using the reduce array method
+B Using the <Each /> component
+C Using the Array.map() method
+D With a for/while loop
+
+Ans C
+
+3.What is state in react? 
+A A prement storage
+B Internal storage of the component
+C Both A and B
+D None of the above
+
+Ans B
+
+4.Everything in react is 
+A Component
+B Model
+C Method
+D Package
+
+Ans A
+
+5. What will happen if you render an input element with disabled = {false} 
+A It will be rendered as disabled
+B It will not be rendered at all
+C It will be rendered as enabled
+D None
+
+Ans C
+
+6. Must API for every ReactJs component 
+A SetinitialComponent
+B renderComponent
+C render
+D All of the above
+
+Ans B
+
+7.Babel is 
+A Compiler
+B Transpilar
+C None of the above
+D Both A and B
+
+Ans D
+
+8. Why we use webpack command? 
+A Runs react local server.
+B A module bundler
+C Both A and B
+D None
+
+9.What are two ways that data gets handled in React? 
+A state
+B props
+C Both A and B
+D None
+
+10.What kind of component import React from 'react' is?
+A stateless component
+B statefull component
+C pure component 
+D none
+
+Ans A
+
+                           Node js
+1.which of the following areas, Node.js is not advised to be used?
+A Single Page Applications
+B JSON APIs based Applications
+C CPU intensive applications
+D Data Intensive Realtime Applications (DIRT)
+
+Ans C
+
+2.Which of the following provides in-built events.
+A events
+B callback
+C throw
+D handler
+
+Ans A
+
+3.Which of the following is true about Chaining streams?
+A Chanining is a mechanism to connect output of one stream to another stream and create a chain of multiple stream operations.
+B Chanining is normally used with piping operations.
+C Both of the above.
+D None of the above.
+
+Ans C
+
+4.Which of the following is true about global objects in Node applications?
+A Global objects are global in nature and they are available in all modules.
+B Global objects are nore required to be included in application, rather they can be used directly.
+C Both of the above.
+D None of the above.
+
+Ans C
+
+5. Which of the following code print the name of operating system?
+A console.log('type : ' + os.type);
+B console.log('type : ' + os.type());
+C console.log('type : ' + os.getType());
+D None of the above
+
+Ans B
+
+6. Each type of Stream is an EventEmitter.
+A true
+B false
+
+Ans A
+
+7.The $ npm ls -g statement is used to list down all the locally installed module? 
+A True
+B False
+
+Ans B
+
+8.Node uses _________ engine in core.*
+A Chorme V8
+B Microsoft Chakra
+C SpiderMonkey
+D Node En
+
+Ans A
+
+9. Which of the following statements holds good with respect to Node?
+A. Node being a single thread, and uses async function calls to maintain the concurrency
+B. Every API of Node js are asynchronous
+C. Node thread keeps an event loop and whenever any task get completed, it fires the corresponding event which signals the event listener function to get executed
+D. All of these
+
+Ans A
+
+10. Which of following are a valid form of route path?
+A. strings
+B. string patterns
+C. regular expressions
+D. All of above
+
+Ans D
+
+
+
+
+
+
+
+
+
+
+
