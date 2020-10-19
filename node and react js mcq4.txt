@@ -1,0 +1,148 @@
+			React js
+1.How do you access a function fetch() from a h1 element in JSX?
+a <h1>{fetch()}</h1>
+b <h1>${fetch()}</h1>
+c <h1>{fetch}</h1>
+d <h1>${fetch}</h1>
+Ans a
+
+2.Which method in a React Component should you override to stop the component from updating?
+a willComponentUpdate
+b shouldComponentUpdate
+c componentDidUpdate
+d componentDidMount
+Ans b
+
+3.What's used to pass data to a component from outside?
+a setState
+b render with arguments
+c PropTypes
+d props
+Ans d
+
+4.Which method in a React Component is called after the component is rendered for the first time?
+a componentDidUpdate
+b componentDidMount
+c componentMounted
+d componentUpdated
+Ans b
+
+5.Which of the following is correct syntax for a button click event handler, foo?
+a <button onclick={this.foo()}>
+b <button onclick={this.foo}>
+c <button onClick={this.foo()}>
+d <button onClick={this.foo}>
+Ans d
+
+6.What happens when you call setState() inside render() method?
+a Repetitive output appears on the screen
+b Stack overflow error
+c Duplicate key error
+d Nothing happens. Life goes on!
+Ans b
+
+7.What happens when the following render() method executes?
+ render(){
+   let langs = ["Ruby","ES6","Scala"]
+     return (<div>
+       {langs.map(it => <p>{it}</p>)}
+     </div>)
+ }
+a Displays the list of languages in the array
+b Error. Cannot use direct JavaScript code in JSX
+c Displays nothing
+d Error. Should be replaced with a for..loop for correct output
+Ans a
+
+8.How do you write an inline style specifying the font-size:12px and color:red; in JSX
+a style={{font-size:12,color:'red'}}
+b style={{fontSize:'12px',color:'red'}}
+c style={fontSize:'12px',color:'red'}
+d style={{font-size:12px,color:'red'}}
+Ans b
+
+9.To upload a file from react component, A developer will require to write
+A.A controlled component
+B.An uncontrolled component
+C.Can be done from both
+D.None of above
+Ans B
+
+10.Ref in react component is used to assign reference to DOM elements. Ref can be created by
+A.Calling React.createRef method
+B.Assigning a value to ref attribute in JSX
+C.Both of above
+D.None of above
+Ans C
+
+			Node js
+1.The Nodejs modules can be exposed using
+a Module
+b module.exports
+c module.expose
+d All the above
+Ans b
+
+2.Which of the following tool automates various tasks of Node js application.
+a. GruntJS
+b. NPM
+c. Express.js
+d. None of the above
+Ans a
+
+3.Child processes always have three streamschild.
+stdin,child.
+stdout, andchild.
+stderr which may be shared with the stdio streams of the parent process
+a. False
+b. True
+Ans a
+
+4.Which module is used to serve static resources in Node js.
+a. HTTP
+b. static
+c. node-static
+d. node-resource
+Ans c
+
+5. Select all valid rout parameter formats
+a /books/!:from-:to
+b /flights/:from-:to
+c /users/:userId/books/:bookId
+d None
+Ans a
+
+6.Which of the following is the correct way to get a normalized path?
+a os.normalize('/test/test1//2slashes/1slash/tab/..')
+b fs.normalize('/test/test1//2slashes/1slash/tab/..')
+c path.normalize('/test/test1//2slashes/1slash/tab/..')
+d None of the above
+Ans c
+
+7.Which method is used to compare the placement of two nodes in the DOM hierarchy (document)?
+a cloneNode()
+b compareDocumentPosition()
+c getFeature()
+d getUserData()
+Ans b
+
+8. Which of the following Node object property returns the node immediately before a node?
+a localName
+b index
+c previousSibling
+d textContent
+Ans c
+
+9. What does the fs module stand for?
+a File Service
+b File System
+c File Store
+d File Attache
+Ans b
+
+10. What is the purpose of the Node object property ownerDocument?
+a Returns the immediate node
+b Returns the parent node
+c Returns the root element
+d Returns the last element
+Ans c
